@@ -96,7 +96,7 @@
 * Updated THEOplayer to 7.0.0.
 
 ### Versioning changes
-We are updating the version numbering for THEOplayer Flutter SDK to more closely match the underlying native THEOplayer SDKs.
+We are updating the version numbering for THEOplayer [Flutter]([url](https://flutternest.com/)) SDK to more closely match the underlying native THEOplayer SDKs.
 
 Here are the notable changes:
 - The **major** version will be matching the underlying native SDK major version.
